@@ -106,3 +106,5 @@ Yes this will work for all cases flawlessly.
 Choose a solution and develop a plane to implement it:
 
 So for this to work start you only count to 10 then youll only notice you hitting your index finger during the counts. But once you reach 20 you land on your ring finger. Find the pattern and you solve the riddle.
+
+Counted to 30 and noticed the pattern.
