@@ -4,13 +4,19 @@ WPF Sec 1
 Problem Solving
 
 Problem 1- A Cat, a Parrot, and a Bag of Seed
-Define the Problem
+
+Define the Problem:
 
 The problem here is that we can not leave the cat, parrot alone or bag of seed and the parrot alone  to get to the other side of the river.
 
 The man will have to move the parrot back and forth a couple of times to solve this riddle.
 
 The overall goal is to get the parrot, cat and seed all to the other side of the river.
+
+
+Break the problem apart:
+
+
 
  
 
