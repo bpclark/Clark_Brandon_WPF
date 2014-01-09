@@ -49,6 +49,13 @@ The insight I have is why am I digging through a a drawer with unmatched socks t
 The overall goal is to get "atleast one matching pair and at least one matching pair of each color."
 
 
+Break the problem apart:
+
+The constraints are that it is dark while seaching threw the drawer. The socks are not paired and rolled for some reason.
+
+Sub goals would be getting into the right drawer and being able to feel for the right amount of socks
+
+
 
 
 
