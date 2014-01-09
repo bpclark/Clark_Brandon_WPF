@@ -73,3 +73,12 @@ Choose a solution and develop a plan to implement it.
 Since there is only 3 different kinds of socks then all you have to do is grab 4 pairs of socks. This will guarantee you atleast 1 pair. Now for a matching pair of each color then you will need 9 pairs of socks.
 
 
+Predicting Fingers
+
+Define the problem:
+
+The problem is identifing the pattern that can be applied so you dont have to count out 1-1000 on your hand.
+
+Figure out where the sequence changes on the fingers. Only have to count to 30 and then it is easily solved.
+
+The overall goal is to find the pattern used to determine which finger is used at 10, 100, 1000.
