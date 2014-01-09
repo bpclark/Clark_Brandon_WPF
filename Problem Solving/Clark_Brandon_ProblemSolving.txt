@@ -86,6 +86,14 @@ The overall goal is to find the pattern used to determine which finger is used a
 
 Break the problem apart:
 
-Constraints are using just one hand and having to count to 30 before noticing the pattern.
+Constraints are using just one hand to count and having to count to 30 before noticing the pattern.
 
 Sub-goals would be not to quit counting before reaching 30.
+
+
+Identify potential solutions:
+
+Count as high as you can on the one hand and stop once you notice your alternating between your index and ring finger.
+It may seem like it at first but you must count to atleast 30 before the pattern changes.
+
+
