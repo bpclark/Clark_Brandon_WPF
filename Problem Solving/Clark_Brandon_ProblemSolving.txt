@@ -42,6 +42,13 @@ Socks in the Dark
 
 Define the Problem:
 
+The problem is that it dark and we must reach out and grab into a pile of 20 socks.
+
+The insight I have is why am I digging through a a drawer with unmatched socks to begin with? 
+
+The overall goal is to get "atleast one matching pair and at least one matching pair of each color."
+
+
 
 
 
