@@ -16,7 +16,9 @@ The overall goal is to get the parrot, cat and seed all to the other side of the
 
 Break the problem apart:
 
+We have been limited to the number of items the man can carry accross the river. Yet we cannot leave the cat and parrot alone, nor can we leave the parrot and the seed alone.
 
+If the cat is alone with the parrot it will eat the parrot and if the parrot is alone with the seed then it will it that. So keep them seperate and make multiple trips with the parrot back and forth.
 
  
 
