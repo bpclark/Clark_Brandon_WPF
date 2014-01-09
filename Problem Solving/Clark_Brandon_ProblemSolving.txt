@@ -30,9 +30,13 @@ Evalute Each potential solution
 
 Yes this sole solution meets the goal.
 
-There is only one solution to this problem without bringing in an outside source to the story with the current virables given.
+There is only one solution to this problem without bringing in an outside sources to the story with the current virables given.
 
+Chose a solution and develop a plan to implemnt it.
 
+Take the parrot accross first and drop it off. Then go get the cat. Come back with the cat and pick up the parrot. Go back for the seed and drop off parrot. Drop off seed next to cat and go back for parrot. Then return to the other side of the river and the Man, Cat, Parrot and bag of seed will all be together without the loss of life to the bird or seed.
+
+There wasnt a need for a test case. I could just easily visualize the solution in my head.
 
 
 
