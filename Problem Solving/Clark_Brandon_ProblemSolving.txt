@@ -97,3 +97,8 @@ Count as high as you can on the one hand and stop once you notice your alternati
 It may seem like it at first but you must count to atleast 30 before the pattern changes.
 
 
+Evaluate each potential solution:
+
+Yes the solution meets the goals. If you only count to 20 then youll only notice you hitting your index finger during the counts. But once you reach 30 you land on your ring finger.
+Yes this will work for all cases flawlessly.
+
