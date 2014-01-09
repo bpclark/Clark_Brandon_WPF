@@ -68,3 +68,8 @@ The solutions I provided would not keep you within the constraints of the story.
 So no it does not meet the goal.
 
 
+Choose a solution and develop a plan to implement it.
+
+Since there is only 3 different kinds of socks then all you have to do is grab 4 pairs of socks. This will guarantee you atleast 1 pair. Now for a matching pair of each color then you will need 9 pairs of socks.
+
+
