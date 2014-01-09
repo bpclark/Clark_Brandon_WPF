@@ -40,6 +40,8 @@ There wasnt a need for a test case. I could just easily visualize the solution i
 
 Socks in the Dark
 
+Define the Problem:
+
 
 
 
