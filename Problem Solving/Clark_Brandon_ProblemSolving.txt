@@ -82,3 +82,10 @@ The problem is identifing the pattern that can be applied so you dont have to co
 Figure out where the sequence changes on the fingers. Only have to count to 30 and then it is easily solved.
 
 The overall goal is to find the pattern used to determine which finger is used at 10, 100, 1000.
+
+
+Break the problem apart:
+
+Constraints are using just one hand and having to count to 30 before noticing the pattern.
+
+Sub-goals would be not to quit counting before reaching 30.
