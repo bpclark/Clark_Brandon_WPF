@@ -28,7 +28,10 @@ Take the parrot accross first and drop it off. Then go get the cat. Come back wi
 
 Evalute Each potential solution
 
- 
+Yes this sole solution meets the goal.
+
+There is only one solution to this problem without bringing in an outside source to the story with the current virables given.
+
 
 
 
