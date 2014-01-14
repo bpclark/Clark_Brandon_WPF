@@ -77,7 +77,18 @@ var result = a + b;
 console.log(result);
 */
 
+//Casting
 
+var areaCode = 435;
+var firstPart = 849;
+var secPart = 6268;
+//(435)849-6268
+var phoneNo = "(" + String(areaCode)+ ")" + String(firstPart) + "-" + String(secPart);
+console.log(phoneNo);
+
+//var stringVar = "6";
+//var result = 7 + Number(stringVar)
+//console.log(result);
 
 
 
