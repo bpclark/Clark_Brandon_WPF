@@ -29,4 +29,10 @@ var height = 8;
 var area = width * height/2;
 console.log(area);
     */
+/*
+//Expressions - Modulo Operator
+
+var remainder = 211 % 2;
+console.log (remainder);
+    */
 
