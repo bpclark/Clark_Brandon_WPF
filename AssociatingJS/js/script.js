@@ -78,7 +78,7 @@ console.log(result);
 */
 
 //Casting
-
+/*
 var areaCode = 435;
 var firstPart = 849;
 var secPart = 6268;
@@ -89,8 +89,13 @@ console.log(phoneNo);
 //var stringVar = "6";
 //var result = 7 + Number(stringVar)
 //console.log(result);
+*/
 
+//Expressions - Assignment Operators
 
+var a=3;
+a -- ; //a= a+4// a +=1 a= -- 1
+console.log(a);
 
 
 
