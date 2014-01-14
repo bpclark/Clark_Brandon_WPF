@@ -35,7 +35,7 @@ console.log(area);
 var remainder = 211 % 2;
 console.log (remainder);
     */
-
+/*
 //Expressions  - PEMDAS - The Order of Operations
 
 var quiz1 = 87;
@@ -51,3 +51,61 @@ var length = 7;
 var width = 6
 var perimeter = length * 2 + width * 2;
 //console.log(perimeter);
+*/
+/*
+//Expressions - Expressions with Arrays
+
+var orangeBins = [234,567,883]
+
+var total = orangeBins[0]+ orangeBins[1]+ orangeBins[2];
+console.log(total);
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
