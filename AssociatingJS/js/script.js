@@ -61,11 +61,21 @@ var total = orangeBins[0]+ orangeBins[1]+ orangeBins[2];
 console.log(total);
 */
 
+//Expressions - Concatenating strings
+/*
+var firstName = "Brandon";
+var lastName = "Clark";
+var fullName= firstName + " " + lastName;
+
+console.log(fullName);
 
 
+var a = 6;
+var b = 7;
 
-
-
+var result = a + b;
+console.log(result);
+*/
 
 
 
