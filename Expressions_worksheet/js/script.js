@@ -68,14 +68,39 @@ var average = (foodBin[0]+foodBin[1]+foodBin[2]+foodBin[3]+foodBin[4])/5 // adde
 
 var food = "You have spent a total of"+ ' ' + "$" + (total)+ ' '
 + "on groceries over 5 weeks. That is an average of"+ ' ' + "$" + (average)+ ' ' + "per week"
-//for the print I made string adding in spaces and makeing the $ a string instead of a function.
+//for the print I made string adding in spaces and making the $ a string instead of a function.
 
 //console.log(food)
 
 
+//Discounts
+//Givens: $100.00
+//discount: 32%
+//Oakley Sunglasses
+//Sales Tax: 8%
+//Result Variable: with tax 73.44 and without tax 68.00
 
 
 
+
+var fullPrice = 100.00; //declaration and definition
+var discount = 32; //declaration and definition
+var salesTax = .08; // declaration and definition
+var glasses= "Oakley Sunglasses";//declaration and definition
+var withDiscount = fullPrice - (fullPrice * (discount /100)); //defined with a discount as being discount of .32  divided
+//by 100 to bring the fraction to a whole number (.32 to 32). Then times full price (100.00) by 32. After that it will run
+//100-32 to come out to 68.00.
+
+var addedTax = withDiscount + (withDiscount * salesTax); // times the discounted item of 68.00 by the sales tax amount 8%.
+// which comes to 5.44 in taxes. Then add the taxed amount to the discounted item. wich brings the total to 73.44.
+
+var result = "Your" + ' ' + (glasses) + ' ' + "was originally" + ' ' + "$"+fullPrice + ' ' + "but after a" + ' '  +
+    discount+ "%" + ' ' + "discount, it is now $" + withDiscount + ' ' + "without tax, and $" + addedTax+ ' ' +
+    "with tax."
+//added in all the variables plus the a couple new ones to solve the print. learned the symbols need to be in
+// strings or the system thinks its a function.
+
+//console.log(result)
 
 
 
