@@ -50,15 +50,27 @@ var sparkyFood = people * partLeft; // to determine how many slices whole parts 
 // the number of people times the fraction of a slice (.625). so this is 32 * .625 and you come out with 20 whole
 //slices for sparky.
 
-console.log (sparkyFood)
+var print = "Sparky got" + ' ' + (sparkyFood) + ' ' + "slices of pizza" // print statement with spaces around sparkyFood variable.
 
+//console.log (print)
 
+//Average shopping bill
+//Given: week1 85.25, week 2 110.38,  week 3 95.68, week 4 71.25, week 5 101.01
+//Total spent:463.57
+//Average: 92.714
 
+var foodBin = [85.25,110.38,95.68,71.25,101.01] //inserted the values into an array
 
+var total = foodBin[0]+foodBin[1]+foodBin[2]+foodBin[3]+foodBin[4] // added the values together to find the total for the 5 weeks.
 
+var average = (foodBin[0]+foodBin[1]+foodBin[2]+foodBin[3]+foodBin[4])/5 // added the array together and then divided by 5 weeks to come up withe
+//the average
 
+var food = "You have spent a total of"+ ' ' + "$" + (total)+ ' '
++ "on groceries over 5 weeks. That is an average of"+ ' ' + "$" + (average)+ ' ' + "per week"
+//for the print I made string adding in spaces and makeing the $ a string instead of a function.
 
-
+//console.log(food)
 
 
 
