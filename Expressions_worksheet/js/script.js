@@ -3,3 +3,7 @@
 //Expressions_worksheet
 
 
+//Dog Years
+var sparkyAge = 4; // declaration and definition
+
+
