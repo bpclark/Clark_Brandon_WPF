@@ -23,11 +23,11 @@ var answer = "Sparky is" + ' ' + (x) + ' ' + "human years old which is" + ' ' + 
 // Givens: Number of slices 7, People at the party 32, Number of pizzas ordered 12.
 //Result varible  2.625 slices per person.
 
-var slices = 7 //7 slices per box
-var people = 32 //32 people are attending the party
-var ordered = 12 // 12 pizzas have been ordered
+var slices = 7; //7 slices per box
+var people = 32; //32 people are attending the party
+var ordered = 12; // 12 pizzas have been ordered
 
-var answer = (slices * ordered)/people; // the three varibles with 7 slices times 12 pizzas
+var answer = (slices * ordered)/people; // the three variables with 7 slices times 12 pizzas
 // then divided by 12 pizzas ordered.
 var result = "Each person ate" + ' ' +  (answer) + ' ' + "slices of pizza at the party." //to be able to have this display
 //then stings need to be made around groups of words, with  the plus symbol, then apostrophe space apostrophe, then plus
@@ -36,8 +36,53 @@ var result = "Each person ate" + ' ' +  (answer) + ' ' + "slices of pizza at the
 //console.log(result)  displays correct answer variable in the console.
 
 //Slice of the Pie part II
-// Givens: Number of slices 7, People at the party 32, Number of pizzas ordered 12.
+// Givens: Number of slices 7, People at the party 32, Number of pizzas ordered 12. .625 * 12 = 7.5
 //Result Variables: Sparky will get 7 whole slices
+
+var slices = 7; //7 slices per box
+var people = 32; //32 people are attending the party
+var ordered = 12; // 12 pizzas have been ordered
+var eachPlate = slices * ordered / people; // the three variables with 7 slices times 12 pizzas 2.625 slices for each
+
+var partLeft = .625; // remainder of the pizza slices
+
+var sparkyFood = people * partLeft; // to determine how many slices whole parts sparky gets then you must take the
+// the number of people times the fraction of a slice (.625). so this is 32 * .625 and you come out with 20 whole
+//slices for sparky.
+
+console.log (sparkyFood)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
