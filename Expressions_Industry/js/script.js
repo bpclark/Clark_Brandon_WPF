@@ -10,4 +10,9 @@ var hoursComplete = prompt ("Please enter the projected hours to complete the ta
 
 var costEmployee = prompt ("Now enter the base pay average of the employees");//defining prompt to enter base pay average to help with determining the final fast of man power hours.
 
+var percentError = .10
+
 var totalCost= (hoursComplete*costEmployee*peopleWorking);//defining the total cost to finish the task.
+
+
+
