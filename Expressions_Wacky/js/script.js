@@ -32,4 +32,4 @@ if (result > 701) {result
 
 var goodJob = (result) + ' ' + "calories burned!" + ' ' + (value)//created a string concatenation that has the result and vaule string to populate the sentence.
 
-console.log(goodJob)
+console.log(goodJob)// will display correctly and supports the functions
