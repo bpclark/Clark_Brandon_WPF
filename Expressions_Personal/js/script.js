@@ -9,3 +9,4 @@
 //Per day of use of your car
 
 var gasPrice = prompt ("Enter how much a gallon of gas costs"); //definitions
+var milesDriven = prompt ("How man miles to work do you drive?");
