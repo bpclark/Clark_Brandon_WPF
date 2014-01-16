@@ -10,4 +10,4 @@ var distance= prompt ("This calculator allows for measuring how many calories yo
 
 var weight= prompt ("Enter your weight")// enter in your weight in the prompt
 
-var result= (distance* weight*a)
+var result= (distance* weight*a)// First calculation for result
