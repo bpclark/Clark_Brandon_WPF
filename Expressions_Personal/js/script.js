@@ -8,4 +8,4 @@
 // MPG of Car
 //Per day of use of your car
 
-var gasPrice = prompt ("Enter how much a gallon of gas costs");
+var gasPrice = prompt ("Enter how much a gallon of gas costs"); //definitions
