@@ -27,7 +27,7 @@ if (result >  3001 && result < 5000) {
     value="Great!  Your a runner.....keep it up!";}//added in a greater than or less than condition for that range
 
 if (result >  5001 && result < 7000) {
-    value="The flash would be jealous!";}//added in a greater than or less than condition for that range
+    value="The Flash would be jealous!";}//added in a greater than or less than condition for that range
 
 if (result > 7001) {result
     value="Your my hero!  Have a jelly doughnut and a beer.";}// added in a greater than or less than condition for that range
