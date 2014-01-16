@@ -13,4 +13,6 @@ var weight= prompt ("Enter your weight")// enter in your weight in the prompt
 var result= (distance* weight*a)// First calculation for result
 
 if (result < 100) {
-    value="Weak sauce! Are you even trying?!";}
+    value="Weak sauce! Are you even trying?!";}// added in less than 100 calories to give a funny remark.
+
+
