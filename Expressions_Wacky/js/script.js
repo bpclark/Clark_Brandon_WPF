@@ -6,7 +6,7 @@
 
 var a=.653; // rate of burn for fat while running.
 
-var distance= prompt ("This calculator allows for measuring how many calories you burned while running. **Enter in how far you ran in miles**");// prompt for inserting how far you ran
+var distance= prompt ("This calculator allows for measuring how many calories you burned while running. **Enter in how far you ran in miles in a day**");// prompt for inserting how far you ran
 
 var weight= prompt ("Enter your weight")// enter in your weight in the prompt
 
