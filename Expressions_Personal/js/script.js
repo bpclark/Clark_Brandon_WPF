@@ -15,3 +15,5 @@ var gallonsUsed = (milesDriven / mpgCar)* gasPrice; //expressions to solve MPG/m
 var totalCost = "The total cost to drive one way to work is $" + (gallonsUsed.toFixed(2)) + "." // calculated how much it would cost to drive one way to work and added the .tofixed  to allow for rounding.
 
 console.log(totalCost);
+
+
