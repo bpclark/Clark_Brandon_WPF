@@ -4,3 +4,4 @@
 
 //Given; calories burned , distance ran, weight
 
+var a=.653;
