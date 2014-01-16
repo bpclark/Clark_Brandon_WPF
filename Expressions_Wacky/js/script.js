@@ -19,4 +19,10 @@ if (result >  101 && result < 200) {
     value="Nice run...I guess. You can do better.";}// range results with witty response
 
 if (result >  201 && result < 300) {
-    value="Very good!  Push above 300 next time.";}
+    value="Very good!  Push above 300 next time.";}//added in a greater than or less than condition for that range
+
+if (result >  301 && result < 500) {
+    value="Great!  Your a runner.....keep it up!";}
+
+
+
