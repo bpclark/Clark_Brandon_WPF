@@ -2,4 +2,4 @@
 //1-15-2014
 //Expressions - Expressions_Wacky
 
-//Given
+//Given; Calories for men and woman, calories burned , distance ran, weight
