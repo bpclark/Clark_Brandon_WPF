@@ -13,4 +13,4 @@ var milesDriven = prompt ("How man miles to work do you drive?");//definition
 var mpgCar= prompt ("Enter the MPG of your car");//definition
 var dayGas = prompt (" Enter how many days a month you drive to work ")//definition
 var gallonsUsed = (milesDriven / mpgCar)* (gasPrice);//expressions to solve MPG/miles to work to give me gallons used.
-var perDay = (gallonsUsed * 2)*(dayGas);
+var perDay = (gallonsUsed * 2)*(dayGas);//definition
