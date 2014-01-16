@@ -19,4 +19,4 @@ var withPercent=  (totalCost * percentError)+ totalCost;//added the calculation 
 var result= ("The total cost to complete the task is $")+(totalCost)+"." + "But just incase 10% has been added to act as a buffer for planning purposes which would result in a new cost of $"+(withPercent)+"."//added in totalCost without the 10% kicker to just the difference in price of how much 10% over would be
 
 
-console.log(result);
+console.log(result);//will the display the calculation correctly. Tells the difference between 10% kicker or not.
