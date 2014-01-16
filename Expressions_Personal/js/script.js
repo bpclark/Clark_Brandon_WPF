@@ -12,6 +12,6 @@ var milesDriven = prompt ("How man miles to work do you drive?");//definition
 var mpgCar= prompt ("Enter the MPG of your car");//definition
 
 var gallonsUsed = (milesDriven / mpgCar)* gasPrice; //expressions to solve MPG/miles to work to give me gallons used.
-
+var totalCost = "The total cost to drive one way to work is $" + (gallonsUsed.toFixed(2)) + "." // calculated how much it would cost to drive one way to work and added the .tofixed  to allow for rounding.
 
 console.log(totalCost);
