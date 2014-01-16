@@ -6,3 +6,4 @@
 // How many gallons of gas does it take to get to work.
 //Miles driven to work
 // MPG of Car
+//Per day of use of your car
