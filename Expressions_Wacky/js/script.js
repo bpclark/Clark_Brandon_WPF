@@ -4,4 +4,4 @@
 
 //Given; calories burned , distance ran, weight
 
-var a=.653;
+var a=.653; // rate of burn for fat while running.
