@@ -15,4 +15,5 @@ var result= (distance* weight*a)// First calculation for result
 if (result < 100) {
     value="Weak sauce! Are you even trying?!";}// added in less than 100 calories to give a funny remark.
 
-
+if (result >  101 && result < 200) {
+    value="Nice run...I guess. You can do better.";}
