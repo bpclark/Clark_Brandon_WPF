@@ -15,4 +15,4 @@ var dayGas = prompt (" Enter how many days a month you drive to work ")//definit
 var gallonsUsed = (milesDriven / mpgCar)* (gasPrice);//expressions to solve MPG/miles to work to give me gallons used.
 var perDay = (gallonsUsed * 2)*(dayGas);//definition
 var totalCost = "The total cost to drive one way to work is $" + (perDay.toFixed(2)) + "." // calculated how much it would cost to drive both ways to work  for any number of given days and added the .tofixed  to allow for rounding.
-console.log(totalCost);
+console.log(totalCost);//displays the total cost to drive for how ever many days you enter.
