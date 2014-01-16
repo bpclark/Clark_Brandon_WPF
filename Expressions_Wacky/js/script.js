@@ -10,26 +10,26 @@ var distance= prompt ("This calculator allows for measuring how many calories yo
 
 var weight= prompt ("Enter your weight")// enter in your weight in the prompt
 
-var days= ("How days a week do you run")
+var days=prompt ("How many days a week do you run")//number of days ran
 
-var result= (distance* weight*a)// First calculation for result
+var result= (distance* weight*days)*a// First calculation for result
 
-if (result < 100) {
+if (result < 1000) {
     value="Weak sauce! Are you even trying?!";}// added in less than 100 calories to give a funny remark.
 
-if (result >  101 && result < 200) {
+if (result >  1001 && result < 2000) {
     value="Nice run...I guess. You can do better.";}// range results with witty response
 
-if (result >  201 && result < 300) {
-    value="Very good!  Push above 300 next time.";}//added in a greater than or less than condition for that range
+if (result >  2001 && result < 3000) {
+    value="Very good!  Push above 3000 next time.";}//added in a greater than or less than condition for that range
 
-if (result >  301 && result < 500) {
+if (result >  3001 && result < 5000) {
     value="Great!  Your a runner.....keep it up!";}//added in a greater than or less than condition for that range
 
-if (result >  501 && result < 700) {
+if (result >  5001 && result < 7000) {
     value="The flash would be jealous!";}//added in a greater than or less than condition for that range
 
-if (result > 701) {result
+if (result > 7001) {result
     value="Your my hero!  Have a jelly doughnut and a beer.";}// added in a greater than or less than condition for that range
 
 var goodJob = (result) + ' ' + "calories burned!" + ' ' + (value)//created a string concatenation that has the result and vaule string to populate the sentence.
