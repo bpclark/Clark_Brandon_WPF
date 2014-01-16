@@ -10,3 +10,4 @@
 
 var gasPrice = prompt ("Enter how much a gallon of gas costs"); //definitions
 var milesDriven = prompt ("How man miles to work do you drive?");//definition
+var mpgCar= prompt ("Enter the MPG of your car");
