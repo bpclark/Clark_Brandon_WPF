@@ -15,3 +15,5 @@ var percentError = .10 // added 10% for an auto increase in cost
 var totalCost= (hoursComplete*costEmployee*peopleWorking);//defining the total cost to finish the task.
 
 var withPercent=  (totalCost * percentError)+ totalCost;//added the calculation + totalCost to compensate for the added 10%
+
+var result= ("The total cost to complete the task is $")+(totalCost)+"." + "But just incase 10% has been added to act as a buffer for planning purposes which would result in a new cost of $"+(withPercent)+"."
