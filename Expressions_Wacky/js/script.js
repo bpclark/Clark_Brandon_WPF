@@ -25,6 +25,6 @@ if (result >  301 && result < 500) {
     value="Great!  Your a runner.....keep it up!";}//added in a greater than or less than condition for that range
 
 if (result >  501 && result < 700) {
-    value="The flash would be jealous!";}
+    value="The flash would be jealous!";}//added in a greater than or less than condition for that range
 
 
