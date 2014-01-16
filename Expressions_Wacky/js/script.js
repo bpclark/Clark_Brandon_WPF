@@ -10,6 +10,8 @@ var distance= prompt ("This calculator allows for measuring how many calories yo
 
 var weight= prompt ("Enter your weight")// enter in your weight in the prompt
 
+var days= ("How days a week do you run")
+
 var result= (distance* weight*a)// First calculation for result
 
 if (result < 100) {
