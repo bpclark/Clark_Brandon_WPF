@@ -17,3 +17,6 @@ var totalCost= (hoursComplete*costEmployee*peopleWorking);//defining the total c
 var withPercent=  (totalCost * percentError)+ totalCost;//added the calculation + totalCost to compensate for the added 10%
 
 var result= ("The total cost to complete the task is $")+(totalCost)+"." + "But just incase 10% has been added to act as a buffer for planning purposes which would result in a new cost of $"+(withPercent)+"."//added in totalCost without the 10% kicker to just the difference in price of how much 10% over would be
+
+
+console.log(result);
