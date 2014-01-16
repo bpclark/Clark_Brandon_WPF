@@ -7,3 +7,5 @@
 var peopleWorking = prompt ("This is a calculator to see how much it costs to accomplish a task. Please enter how many people will be working on the task.");// defining the prompt with how many people would be working on this task.
 
 var hoursComplete = prompt ("Please enter the projected hours to complete the task at hand.");// defining prompt with planned hours it would take to complete the task.
+
+var costEmployee = prompt ("Now enter the base pay average of the employees");
