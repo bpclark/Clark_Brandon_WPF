@@ -30,10 +30,10 @@ degConvert = prompt ("Enter the which kind of temperature you want to convert to
 if(degConvert === "C" || degConvert === "c"){//using an OR Operator to use for captical C and lower case c
 convertedTemp = (tempDeg - 32) * 5/9;//the formula to convert from F to C
 
-console.log ("The temperature is " + convertedTemp + "\xB0 Celsius.");
+console.log ("The temperature is " + convertedTemp.toFixed(2) + "\xB0 Celsius.");
 }//print to the console
 
 if (degConvert === "F" || degConvert === "f"){//using an OR Operator to use for capital F and lower case f
 convertedTemp = tempDeg * 9/5 + 32;//the formula to convert from C to F
-    console.log ("The temperature is " + convertedTemp + "\xB0 Fahrenheit.");
+    console.log ("The temperature is " + convertedTemp.toFixed(2) + "\xB0 Fahrenheit.");
 }//print to console result
