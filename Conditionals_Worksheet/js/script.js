@@ -48,5 +48,10 @@ Username entered by user
 Pssword entered by user
 Correct username
 Correct password
+
+Result To Print Out:
+    “Welcome, (place their username here)!”  - if the username and password is correct
+“User not found. Try again.” -if the username does not match
+“Password does not match our records.”  -if the username matches but the password does not
 */
 
