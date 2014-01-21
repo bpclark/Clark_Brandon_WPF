@@ -24,3 +24,6 @@ code.)
 
 var tempDeg =Number (prompt("Enter the temperature you want converted"));//the variables needed to do the calculations
 var convertedTemp;///the variables needed to do the calculations
+
+degConvert = prompt ("Enter the which kind of temperature you want to convert to: C or F"); // user chooses which temperture type to convert to.
+
