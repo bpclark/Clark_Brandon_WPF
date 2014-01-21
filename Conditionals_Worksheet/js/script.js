@@ -21,3 +21,5 @@ code.)
 100C is 212F
 90F is 32.22C
 */
+
+var tempDeg =Number (prompt("Enter the temperature you want converted"));//the variables needed to do the calculations
