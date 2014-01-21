@@ -11,8 +11,8 @@ Given:
 Degrees (in F or C)
 Unit (a string holding an “F” or a “C”)
 
- Result:
- “The temperature is X degrees Celsius.” Or “The temperature is X degrees Fahrenheit.”
+Result:
+“The temperature is X degrees Celsius.” Or “The temperature is X degrees Fahrenheit.”
 
 Data Sets to Test: (Note that data sets are not the only numbers that should work with your
 code.)
@@ -20,7 +20,7 @@ code.)
 32F is 0C
 100C is 212F
 90F is 32.22C
-*/
+
 
 var tempDeg =Number (prompt("Enter the temperature you want converted"));//the variables needed to do the calculations
 var convertedTemp;///the variables needed to do the calculations
@@ -37,3 +37,4 @@ if (degConvert === "F" || degConvert === "f"){//using an OR Operator to use for 
 convertedTemp = tempDeg * 9/5 + 32;//the formula to convert from C to F
     console.log ("The temperature is " + convertedTemp.toFixed(2) + "\xB0 Fahrenheit.");
 }//print to console result
+*/
