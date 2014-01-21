@@ -40,4 +40,4 @@ convertedTemp = tempDeg * 9/5 + 32;//the formula to convert from C to F
 */
 
 // Check the Login
-
+//Do: Make sure the user has the correct username and password. If the username doesn’t match then a specific message for that should be printed to the console. If the password doesn’t match a message should appear for that, etc. Only one error message should appear.
