@@ -28,5 +28,7 @@ var convertedTemp;///the variables needed to do the calculations
 degConvert = prompt ("Enter the which kind of temperature you want to convert to: C or F"); // user chooses which temperture type to convert to.
 
 if(degConvert === "C" || degConvert === "c"){//using an OR Operator to use for captical C and lower case c
-convertedTemp = (tempDeg - 32) * 5/9;
+convertedTemp = (tempDeg - 32) * 5/9;//the formula to convert from F to C
 
+console.log ("The temperature is " + convertedTemp + "\xB0 degrees Celsius.");
+}
