@@ -31,4 +31,6 @@ if(degConvert === "C" || degConvert === "c"){//using an OR Operator to use for c
 convertedTemp = (tempDeg - 32) * 5/9;//the formula to convert from F to C
 
 console.log ("The temperature is " + convertedTemp + "\xB0 degrees Celsius.");
-}
+}//print to the console
+
+if (degConvert === "F" || degConvert === "f"){
