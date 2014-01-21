@@ -38,3 +38,6 @@ convertedTemp = tempDeg * 9/5 + 32;//the formula to convert from C to F
     console.log ("The temperature is " + convertedTemp.toFixed(2) + "\xB0 Fahrenheit.");
 }//print to console result
 */
+
+// Check the Login
+
