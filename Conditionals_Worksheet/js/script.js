@@ -23,3 +23,4 @@ code.)
 */
 
 var tempDeg =Number (prompt("Enter the temperature you want converted"));//the variables needed to do the calculations
+var convertedTemp;///the variables needed to do the calculations
