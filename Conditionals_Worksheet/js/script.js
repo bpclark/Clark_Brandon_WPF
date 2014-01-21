@@ -34,3 +34,4 @@ console.log ("The temperature is " + convertedTemp + "\xB0 degrees Celsius.");
 }//print to the console
 
 if (degConvert === "F" || degConvert === "f"){//using an OR Operator to use for capital F and lower case f
+convertedTemp = tempDeg * 9/5 + 32;
