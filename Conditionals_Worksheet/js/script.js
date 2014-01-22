@@ -83,4 +83,4 @@ Given: Time of Movie (Assume whole numbers here)
  */
 
 var ticket= 12;//12.00 for the ticket variable
-
+var cheapTick=7
