@@ -55,3 +55,9 @@ Result To Print Out:
 “Password does not match our records.”  -if the username matches but the password does not
 */
 
+var userPop = prompt("Please Enter your user name below:");
+
+
+
+
+
