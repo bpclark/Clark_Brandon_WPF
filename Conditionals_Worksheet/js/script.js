@@ -88,4 +88,5 @@ var cheapTick=7//variable equal to 7
 var TOM= prompt ("What time does the movie start this after noon?")//Time of Movie prompt
 var age= prompt ("Please enter the customers age.")//prompt for customers
 // age
-if (TOM >= 3 && TOM <=5 || age >= 55 || age <=10 ){
+if (TOM >= 3 && TOM <=5 || age >= 55 || age <=10 ){//if time of movie is greater than or equal to 3 and time of movie is less than 5 OR age greater than or equal to 55 OR age less than or equal to 10
+    console.log("The ticket price is $"+ cheapTick);
