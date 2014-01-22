@@ -60,7 +60,8 @@ var userName = "Bob";//defining variables
 
 var enterPass = prompt("Enter User password below:");//defining password prompt
 var thePass = "bob123";//defining the password
-if ((userPop != userName && enterPass != thePass)) {console.log("User not found. Try again.");
+if ((userPop != userName && enterPass != thePass)) {console.log("User not found. Try again.");//defines if the user account is not found on what to display in the console
 }
-
+if (enterPass != thePass && userPop == userName) {
+    console.log("Password does not match our records");}
 
