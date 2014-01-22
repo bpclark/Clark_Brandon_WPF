@@ -60,6 +60,7 @@ var userName = "Bob";//defining variables
 
 var enterPass = prompt("Enter User password below:");//defining password prompt
 var thePass = "bob123";//defining the password
-
+if ((userPop != userName && enterPass != thePass)) {console.log("User not found. Try again.");
+}
 
 
