@@ -78,4 +78,5 @@ if (userName == userPop && thePass == enterPass) {//if all 4 conditions are equa
 Given: Time of Movie (Assume whole numbers here)
  Age of the customer
 
-    
+ Result To Print Out:
+ “The ticket price is X”
