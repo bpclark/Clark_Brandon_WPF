@@ -59,7 +59,7 @@ var userPop = prompt("Please Enter your user name below:");//userPop defined for
 var userName = "Bob";//defining variables
 
 var enterPass = prompt("Enter User password below:");//defining password prompt
-var thePass = "bob123";
+var thePass = "bob123";//defining the password
 
 
 
