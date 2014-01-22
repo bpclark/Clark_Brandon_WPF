@@ -82,5 +82,5 @@ Given: Time of Movie (Assume whole numbers here)
  “The ticket price is X”
  */
 
-var ticket= 12;
+var ticket= 12;//12.00 for the ticket variable
 
