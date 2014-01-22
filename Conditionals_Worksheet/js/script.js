@@ -84,3 +84,5 @@ Given: Time of Movie (Assume whole numbers here)
 
 var ticket= 12;//12.00 for the ticket variable
 var cheapTick=7//variable equal to 7
+
+var TOM= prompt ("What time does the movie start this after noon?")
