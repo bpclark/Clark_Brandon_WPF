@@ -56,7 +56,7 @@ Result To Print Out:
 */
 
 var userPop = prompt("Please Enter your user name below:");//userPop defined for prompt
-
+var userName = "Bob";
 
 
 
