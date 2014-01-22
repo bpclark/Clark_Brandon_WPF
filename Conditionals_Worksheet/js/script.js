@@ -67,4 +67,4 @@ if (enterPass != thePass && userPop == userName) {//if the prompt pass and the s
 if ((userPop != userName && enterPass == thePass)) {console.log("User not found. Try again.");//if the user prompt and user name are different and prompt pass and stored pass are the same then this will be displayed.
 }
 if (userName == userPop && thePass == enterPass) {//if all 4 conditions are equal to their correct values then this is what will print
-    console.log("Welcome " + userName);}
+    console.log("Welcome " + userName);}//print to console
