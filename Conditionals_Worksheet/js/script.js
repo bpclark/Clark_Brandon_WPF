@@ -58,7 +58,8 @@ Result To Print Out:
 var userPop = prompt("Please Enter your user name below:");//userPop defined for prompt
 var userName = "Bob";//defining variables
 
-var enterPass = prompt("Enter User password below:");
+var enterPass = prompt("Enter User password below:");//defining password prompt
+var thePass = "bob123";
 
 
 
