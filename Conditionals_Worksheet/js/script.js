@@ -89,4 +89,7 @@ var TOM= prompt ("What time does the movie start this after noon?")//Time of Mov
 var age= prompt ("Please enter the customers age.")//prompt for customers
 // age
 if (TOM >= 3 && TOM <=5 || age >= 55 || age <=10 ){//if time of movie is greater than or equal to 3 and time of movie is less than 5 OR age greater than or equal to 55 OR age less than or equal to 10
-    console.log("The ticket price is $"+ cheapTick);
+    console.log("The ticket price is $"+ cheapTick);  //print to the console the cheap ticket price.
+}else {
+        console.log("Sorry but you do not qualify for a discount, so you must pay the full price of $" + ticket);}
+
