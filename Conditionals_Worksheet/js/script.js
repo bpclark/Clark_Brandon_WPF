@@ -86,4 +86,6 @@ var ticket= 12;//12.00 for the ticket variable
 var cheapTick=7//variable equal to 7
 
 var TOM= prompt ("What time does the movie start this after noon?")//Time of Movie prompt
-var age= prompt ("Please enter the customers age.")//prompt for customers age
+var age= prompt ("Please enter the customers age.")//prompt for customers
+// age
+if (TOM >= 3 && TOM <=5 || age >= 55 || age <=10 ){
