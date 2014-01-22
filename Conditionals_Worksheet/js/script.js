@@ -63,5 +63,5 @@ var thePass = "bob123";//defining the password
 if ((userPop != userName && enterPass != thePass)) {console.log("User not found. Try again.");//defines if the user account is not found on what to display in the console
 }
 if (enterPass != thePass && userPop == userName) {//if the prompt pass and the stored pass are different and the user promp and name match the this will be displayed.
-    console.log("Password does not match our records");}
+    console.log("Password does not match our records");}//if the prompt pass and the stored pass are different and the user promp and name match the this will be displayed.
 
