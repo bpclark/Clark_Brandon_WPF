@@ -55,6 +55,7 @@ Result To Print Out:
 “Password does not match our records.”  -if the username matches but the password does not
 */
 
+/*
 var userPop = prompt("Please Enter your user name below:");//userPop defined for prompt
 var userName = "Bob";//defining variables
 
@@ -68,3 +69,8 @@ if ((userPop != userName && enterPass == thePass)) {console.log("User not found.
 }
 if (userName == userPop && thePass == enterPass) {//if all 4 conditions are equal to their correct values then this is what will print
     console.log("Welcome " + userName);}//print to console
+    /*
+
+//Movie Ticket Price
+
+    
