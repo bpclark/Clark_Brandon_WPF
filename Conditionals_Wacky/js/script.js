@@ -7,3 +7,5 @@
 
 var gremEat = prompt("When did you feed the mogwai, in 24 hour format please");//time of when the mogwai was fed in 24 hour format
 var gremWet= prompt ("About how much water in ounces got on the mogwai?");//prompt of how many ounces of water was applied to the mogwai
+
+if (gremEat > 1200 && gremWet == 0){//if condition for variable in gremEat prompt to be greater than 1200 and gremWet prompt be equal to 0. both must be true to print.
