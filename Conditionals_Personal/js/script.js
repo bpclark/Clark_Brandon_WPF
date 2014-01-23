@@ -11,7 +11,8 @@ var myBills= prompt ("How much are your bills monthly?");//prompt for your bills
 var myHours=prompt("How many hours did you work this month?");//prompt for hours worked
 
 moneyLeft = (myPay*myHours) - myBills;//math to come out with moneyleft for the IF and Else
-if (moneyLeft <myPay) {
+if (moneyLeft <myPay) {//starting the first conditional problem
+    console.log ("Make better decisions with your money and get more than what you can afford! You are in the red $"+ moneyLeft + "." );
 
 
 
