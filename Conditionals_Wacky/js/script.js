@@ -6,4 +6,4 @@
 //Result: Woot you can follow directions!, EEEWWW! they are gross looking now!,They are multiplying!! Its X of those little guys, Yep we are are going to die! They multiplied and changed !! There is X of them
 
 var gremEat = prompt("When did you feed the mogwai, in 24 hour format please");//time of when the mogwai was fed in 24 hour format
-
+var gremWet= prompt ("About how much water in ounces got on the mogwai?");//prompt of how many ounces of water was applied to the mogwai
