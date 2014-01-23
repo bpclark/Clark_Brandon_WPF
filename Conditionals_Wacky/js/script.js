@@ -10,6 +10,8 @@ var gremWet= prompt ("About how much water in ounces got on the mogwai?");//prom
 
 if (gremEat > 1200 && gremWet == 0){//if condition for variable in gremEat prompt to be greater than 1200 and gremWet prompt be equal to 0. both must be true to print.
     console.log("Woot you can follow directions!");//print to console
-
+}
 if (gremEat <= 1200 &&gremWet ==0 ){//if condition for variable in gremEat prompt to be less than 1200 and gremWet to be equal to 0. both must be true to print.
     console.log ("EEEWWW! they are gross looking now!");//print to console
+}
+if (gremEat >1200 && gremWet < 10){//if condition for variable in gremEat greater than 1200 and gremWet less than 10 ounces. Both must be true to print.
