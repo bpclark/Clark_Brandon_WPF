@@ -10,4 +10,6 @@ var cht= prompt ("Enter in the current CHT(cylinder head temp) in celsiuses");//
 var DA= prompt ("Enter the current Density Altitude");//prompt for user to enter DA
 
 if (rpms >=5400 && rpms <=5600 && cht >=80 && cht <=155 && DA >=0 && DA <3000){//if the Ternary condtions are met then a go for launch will print
-    console.log ("You are cleared for take off!");
+    console.log ("You are cleared for take off!");//print to console
+}else{console.log ("You are not cleared for take off! ABORT ABORT ABORT!!!");
+}
