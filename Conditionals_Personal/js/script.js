@@ -10,7 +10,8 @@ var myPay= prompt ("What is your hourly pay?");//prompt for hourly pay
 var myBills= prompt ("How much are your bills monthly?");//prompt for your bills monthly
 var myHours=prompt("How many hours did you work this month?");//prompt for hours worked
 
-moneyLeft = (myPay*myHours) - myBills;
+moneyLeft = (myPay*myHours) - myBills;//math to come out with moneyleft for the IF and Else
+
 
 
 
