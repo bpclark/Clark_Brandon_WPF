@@ -7,3 +7,4 @@
 
 var rpms = prompt("Enter current max rpms");//prompt for user rpm value
 var cht= prompt ("Enter in the current CHT(cylinder head temp) in celsiuses");//prompt for user to enter the current cht
+var DA= prompt ("Enter the current Density Altitude");
