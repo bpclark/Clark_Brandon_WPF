@@ -5,4 +5,4 @@
 //givens:RPMS, CHT (cylinder head temp), density altitude
 //Results: You are cleared for take off or You are not cleared for take off.
 
-var rpms = prompt("Enter current max rpms");
+var rpms = prompt("Enter current max rpms");//prompt for user rpm value
