@@ -8,6 +8,7 @@
 
 var myPay= prompt ("What is your hourly pay?");//prompt for hourly pay
 var myBills= prompt ("How much are your bills monthly?");//prompt for your bills monthly
+var myHours=prompt("How many hours did you work this month?");
 
 
 
