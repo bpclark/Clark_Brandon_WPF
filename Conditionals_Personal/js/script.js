@@ -12,7 +12,10 @@ var myHours=prompt("How many hours did you work this month?");//prompt for hours
 
 moneyLeft = (myPay*myHours) - myBills;//math to come out with moneyleft for the IF and Else
 if (moneyLeft <myPay) {//starting the first conditional problem
-    console.log ("Make better decisions with your money and get more than what you can afford! You are in the red $"+ moneyLeft + "." );
+    console.log ("Make better decisions with your money and get more than what you can afford! You are in the red $"+ moneyLeft + "." );//print to console the first respone if money left is negitive
+}else{
+    console.log ("Good job! You have $" + moneyLeft + " and are in the black. Would you like a loan?")
+}
 
 
 
