@@ -16,3 +16,5 @@ if (gremEat <= 1200 &&gremWet ==0 ){//if condition for variable in gremEat promp
 }
 if (gremEat >1200 && gremWet < 10){//if condition for variable in gremEat greater than 1200 and gremWet less than 10 ounces. Both must be true to print.
     console.log("They are multiplying!! Its " + gremWet + " of those little guys!");//print to console
+}
+else if (gremEat <1200 && gremWet > 10){//else if gremEat wasa less than 1200 and gremWet was greater than 10. both must be true to print.
