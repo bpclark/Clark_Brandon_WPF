@@ -18,3 +18,5 @@ if (gremEat >1200 && gremWet < 10){//if condition for variable in gremEat greate
     console.log("They are multiplying!! Its " + gremWet + " of those little guys!");//print to console
 }
 else if (gremEat <1200 && gremWet > 10){//else if gremEat wasa less than 1200 and gremWet was greater than 10. both must be true to print.
+    console.log("Yep we are are going to die! They multiplied and changed !! There is " + gremWet + " of them!");//print to console
+}
