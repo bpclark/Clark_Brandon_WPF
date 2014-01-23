@@ -7,7 +7,7 @@
 //result print: Make better decisions with your money and get more than what you can afford! You are in the red $X or "Good job! You have $X and are in the black. Would you like a loan?")
 
 var myPay= prompt ("What is your hourly pay?");//prompt for hourly pay
-
+var myBills= prompt ("How much are your bills monthly?");
 
 
 
