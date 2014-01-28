@@ -14,7 +14,7 @@
 
 
 var total =  calcRadius (10, 2, 3.14) //bin holder
-function calcRadius(r, d, p){
+function calcRadius(r, d, p){//adding in the sub bins identify
 
 
 
