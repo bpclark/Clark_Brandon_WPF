@@ -13,7 +13,7 @@
 //“The circumference of the circle is X”
 
 
-var total =  calcRadius (10, 2, 3.14) 
+var total =  calcRadius (10, 2, 3.14) //bin holder
 
 
 
