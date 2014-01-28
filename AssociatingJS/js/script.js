@@ -232,18 +232,85 @@ if(age<10){
 }
 console.log(book);
 */
-
+/*
 var age= 6;
 var book;
 
 book = (age < 12) ? "Green Eggs and Ham" : "The Time Machine";
 console.log(book);
 
+*/
+////////////////////////////Functions//////////////////////////////
 
+/*
+function outptMsg() {
+    console.log("Hello World");
+}
 
+function calcArea(){
+    var width = 11;
+    var height = 30;
+    var area = width * height;
+    console.log(area);
+}
+///Invoking
+ calcArea();
+*/
 
+//Functions - Variable Scope
+/*
+var width = 5;
 
+function calcArea(){
+    var width = 20;
+    var height = 30;
+    var area = width * height;
+    //console.log(area);
+}
+///Invoking
+calcArea();
+*/
 
+/////////Functions - Parameters - Arguments
 
+/*
+calcArea(30,20)
 
+function calcArea(w , h){
+   var area = w * h;
+    console.log(area);
+}
+*/
 
+//Dog years problem
+/*
+function dogYears(age){
+
+    var dogYears = age * 7;
+    console.log("Sparky is " + dogYears + " years old.")
+}
+dogYears(4);
+dogYears(5);
+    */
+
+/////////////Returning Variable
+/*
+var total = calcArea(30,20)
+
+function calcArea(w , h){
+    var area = w * h;
+    return area;
+}
+    console.log(total)
+    */
+
+//Functions - Anonymous
+
+var calcArea = function(width, height){// defining
+    // code the function runs
+    var area = width * height;
+    return area;
+}
+var a = calcArea(20,30); //invoking, has to be after defining
+
+console.log(a);
