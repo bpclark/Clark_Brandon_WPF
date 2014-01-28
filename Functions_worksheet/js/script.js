@@ -32,5 +32,5 @@ console.log("The circumference of the circle is " + total + ".");//print to cons
 
 var calcDeath= function (weight, stings){//creating the anonymous line that is kinda ignored at the beginning.
     var death= weight * stings; //assigning death as the calc holder
-    return death;
+    return death;//returns to the variables that are outside the functions
 }
