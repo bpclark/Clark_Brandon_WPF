@@ -34,3 +34,4 @@ var calcDeath= function (weight, stings){//creating the anonymous line that is k
     var death= weight * stings; //assigning death as the calc holder
     return death;//returns to the variables that are outside the functions
 }
+var death = calcDeath(190,8.666666667 );
