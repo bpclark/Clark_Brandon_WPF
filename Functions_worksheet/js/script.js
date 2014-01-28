@@ -30,4 +30,5 @@ console.log("The circumference of the circle is " + total + ".");//print to cons
 //Return: Number of Bee stings
 //Result to print to the console: “It takes X bee stings to kill this animal.
 
-var calcDeath= function (weight, stings){
+var calcDeath= function (weight, stings){//creating the anonymous line that is kinda ignored at the beginning.
+    var death= weight * stings;
