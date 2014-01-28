@@ -25,4 +25,4 @@ console.log("The circumference of the circle is " + total + ".");//print to cons
 
 
 //Stung!
-
+//Givens: Victim’s weight (in pounds)
