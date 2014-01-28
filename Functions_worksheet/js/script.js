@@ -12,7 +12,7 @@
 //Result: Result to print to the console:
 //“The circumference of the circle is X”
 
-
+/*
 var total =  calcRadius (10, 2, 3.14) //bin holder
 function calcRadius(r, d, p){//adding in the sub bins identify
     var radS =  r  /d;//dividing the raius by the diameter
@@ -21,5 +21,8 @@ function calcRadius(r, d, p){//adding in the sub bins identify
     return circ;//the return circ is was what will be put into total
 }
 console.log("The circumference of the circle is " + total + ".");//print to console
+*/
 
+
+//Stung!
 
