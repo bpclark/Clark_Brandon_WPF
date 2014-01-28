@@ -25,7 +25,7 @@
             <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.5329156" vertical-offset="4806" max-vertical-offset="5457">
+                  <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.213166" vertical-offset="4602" max-vertical-offset="5457">
                     <folding />
                   </state>
                 </provider>
@@ -45,7 +45,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="49" selection-end="49" vertical-scroll-proportion="0.05214724" vertical-offset="0" max-vertical-offset="652">
+            <state line="11" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.2868098" vertical-offset="0" max-vertical-offset="652">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -193,14 +193,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.5329156" vertical-offset="4806" max-vertical-offset="5457">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.213166" vertical-offset="4602" max-vertical-offset="5457">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="49" selection-end="49" vertical-scroll-proportion="0.05214724" vertical-offset="0" max-vertical-offset="652">
+        <state line="11" column="0" selection-start="154" selection-end="154" vertical-scroll-proportion="0.2868098" vertical-offset="0" max-vertical-offset="652">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
