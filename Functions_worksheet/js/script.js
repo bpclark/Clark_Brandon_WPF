@@ -16,7 +16,7 @@
 var total =  calcRadius (10, 2, 3.14) //bin holder
 function calcRadius(r, d, p){//adding in the sub bins identify
     var radS =  r  /d;//dividing the raius by the diameter
-    var circ= (d*r)*p;
+    var circ= (d*r)*p;//diameter times the radius then divide by pie
 
 
 
