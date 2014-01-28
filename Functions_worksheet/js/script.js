@@ -20,6 +20,6 @@ function calcRadius(r, d, p){//adding in the sub bins identify
 
     return circ;//the return circ is was what will be put into total
 }
-console.log("The circumference of the circle is " + total + ".");
+console.log("The circumference of the circle is " + total + ".");//print to console
 
 
