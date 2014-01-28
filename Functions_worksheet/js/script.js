@@ -27,3 +27,4 @@ console.log("The circumference of the circle is " + total + ".");//print to cons
 //Stung!
 //Givens: Victim’s weight (in pounds)
 //Parameter(s) for function: Victim’s weight (in pounds)
+//Return: Number of Bee stings
