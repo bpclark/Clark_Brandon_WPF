@@ -22,3 +22,5 @@ function calcRez(){//normal named function
         console.log("Your screen resolution with " + maxMon +  " monitor(s) would be " + maxRez + " X " + height + "." + " Go big or go home! Try again when your ready to play with the big dogs!");//print to console
 
     }else {//starting of an else condition of the others have met those criteria.
+        console.log("Your screen resolution with " + maxMon + " monitor(s) would be "+ maxRez + " X " + height + " Now that's what I'm talking about! Welcome to the nerd tech club! WOOTZ WOOTZ!")
+    }//print to console
