@@ -10,3 +10,5 @@ function deskArea(){//normal function
     var fabric = prompt ("Enter the amount of fabric you already have in square feet");// user prompt for fabric to cover a desk
 
     var result1 = (width * depth) - (fabric *144);// calculation to show how much fabric is needed or not
+    if (result1 >0){//condition for the result to print the IF or ELSE
+        console.log("You need more fabric! You are short by " + result1+ " square inches.");// print to console
