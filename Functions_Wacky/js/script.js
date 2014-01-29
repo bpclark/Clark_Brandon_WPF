@@ -1,1 +1,10 @@
-alert("This is in the js file");
+/*
+Brandon Clark
+1-28-2014
+Function_Wacky
+ */
+
+function theFunction(ducks,goats,turtles)//defining the items that are going to be encapsulated
+{
+
+
