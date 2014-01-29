@@ -16,3 +16,4 @@ function calcRez(){//normal named function
     var maxRez = width* maxMon;// calculation for the maximum screen resolution per added monitor.
 
     if (maxRez < 1920){//starting the if condition
+        console.log("Your screen resolution with " + maxMon + " monitor(s) would be "+ maxRez + " X " + height +"." +  " Not impressed" );//print to console
