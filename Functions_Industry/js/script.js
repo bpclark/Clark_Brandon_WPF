@@ -9,7 +9,7 @@ Result: 3 statements depending on resolution.
  */
 
 var calcRez = function (if1, if2, if3 ){//anonymous named function
-    var width = prompt ("Enter a single monitors width in pixels (i.e. 1920 1024 ect.)");//width prompt from user
+    var width = prompt ("Enter a single monitors width in pixels (i.e. 1920, 1024 ect.)");//width prompt from user
     var height = prompt ("Enter a single monitors height in pixels.(i.e. 480, 720, 1080)");// height prompt from user
     var maxMon = prompt ("Enter in how many monitors you want set up to share a desktop.");// number of monitors the user will be using.
 
