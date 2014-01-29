@@ -14,3 +14,5 @@ function calcRez(){//normal named function
     var maxMon = prompt ("Enter in how many monitors you want set up to share a desktop.");// number of monitors the user will be using.
 
     var maxRez = width* maxMon;// calculation for the maximum screen resolution per added monitor.
+
+    if (maxRez < 1920){//starting the if condition
