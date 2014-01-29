@@ -17,3 +17,5 @@ function calcRez(){//normal named function
 
     if (maxRez < 1920){//starting the if condition
         console.log("Your screen resolution with " + maxMon + " monitor(s) would be "+ maxRez + " X " + height +"." +  " Not impressed" );//print to console
+
+    }else if (maxRez >= 1920 && maxRez < 3840 ){//else if with logical operators
