@@ -25,7 +25,7 @@
             <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state line="17" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.30810234" vertical-offset="0" max-vertical-offset="5457">
+                  <state line="176" column="2" selection-start="3670" selection-end="3670" vertical-scroll-proportion="-1.6279317" vertical-offset="4519" max-vertical-offset="5457">
                     <folding />
                   </state>
                 </provider>
@@ -45,7 +45,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.07822086" vertical-offset="0" max-vertical-offset="652">
+            <state line="5" column="14" selection-start="61" selection-end="61" vertical-scroll-proportion="0.1303681" vertical-offset="0" max-vertical-offset="652">
               <folding />
             </state>
           </provider>
@@ -61,6 +61,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/../AssociatingJS/js/script.js" />
         <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
@@ -227,14 +228,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../AssociatingJS/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="269" selection-end="269" vertical-scroll-proportion="0.30810234" vertical-offset="0" max-vertical-offset="5457">
+        <state line="176" column="2" selection-start="3670" selection-end="3670" vertical-scroll-proportion="-1.6279317" vertical-offset="4519" max-vertical-offset="5457">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.07822086" vertical-offset="0" max-vertical-offset="652">
+        <state line="5" column="14" selection-start="61" selection-end="61" vertical-scroll-proportion="0.1303681" vertical-offset="0" max-vertical-offset="652">
           <folding />
         </state>
       </provider>
